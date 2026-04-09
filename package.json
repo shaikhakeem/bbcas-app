@@ -1,0 +1,19 @@
+{
+  "name": "stripe-backend",
+  "version": "1.0.0",
+  "description": "Stripe backend server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "stripe": "^14.25.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
